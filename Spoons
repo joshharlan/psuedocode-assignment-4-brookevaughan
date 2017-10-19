@@ -4,17 +4,18 @@ Goal: Grab a spoon before there are no more left
 Rules/ How to Play:
 
 
-Must be 3-13 players.
+Must be 3-13 players. (How this work?)
 Shuffle cards thoroughly.
-While the last player does not have to last spoon
+The last player to not grab a spoon loses cx.
   Players get into one circle. 
   Place one less spoon in the middle or the circle than there are players.
-  Designate one person to be the dealer.
+  Designate one person to be the dealer. Jef
   The dealer will give each player 4 cards from the deck.
   While no one has touched a spoon:
    Each person starts out with 4 cards and must only have 4 cards in their hand at all times besides the one card they are about to replace.
-   The dealer will begin to pick up one card at a time from the remains of the deck and if they decide they want to keep that card:
+   The dealer will begin to pick up one card at a time from the deck and if they decide they want to keep that card:
      they must pass on a different card from their hand to the player to their left (resulting in having 4 cards).
+     Cards should work as a 1/52 chance to draw any certain card that way you dont need a shuffle function or anything.
     If they don’t want to keep that card:
       they must pass it to their left. 
     The next player will pick up the cards one at a time, and like the dealer.
@@ -22,8 +23,6 @@ While the last player does not have to last spoon
     Instead, they will put them into a pile designated the “Trash Pile”.
     If a card is put into the "trash pile":
       those cards are no longer circulated through the circle.
-    If the cards run out:
-      the dealer will uses the “Trash Pile” as if it were the remaining deck.
     If someone gets a four of a kind:
       that player will stop circulating the cards and grab one of the spoons in the middle of the circle.
     PLAYERS CAN ONLY GRAB THE FIRST SPOON IF THEY HAVE A FOUR OF A KIND.
